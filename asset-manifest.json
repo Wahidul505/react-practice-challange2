@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-practice-challange2/static/css/main.87507d96.css",
+    "main.js": "/react-practice-challange2/static/js/main.bfad83d2.js",
+    "static/js/787.bbcc5920.chunk.js": "/react-practice-challange2/static/js/787.bbcc5920.chunk.js",
+    "index.html": "/react-practice-challange2/index.html",
+    "main.87507d96.css.map": "/react-practice-challange2/static/css/main.87507d96.css.map",
+    "main.bfad83d2.js.map": "/react-practice-challange2/static/js/main.bfad83d2.js.map",
+    "787.bbcc5920.chunk.js.map": "/react-practice-challange2/static/js/787.bbcc5920.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87507d96.css",
+    "static/js/main.bfad83d2.js"
+  ]
+}
